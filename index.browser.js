@@ -1,3 +1,3 @@
 window.awesomeFunction = function awesomeFunction(value) {
-  return value + " is AWESOME!!!";
+  return value + " hello this is sana";
 };
